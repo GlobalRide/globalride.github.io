@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile /home/zenworld/www/globalride/shichifuku_globalride/.htpasswd
+AuthName "auth"
+require valid-user
