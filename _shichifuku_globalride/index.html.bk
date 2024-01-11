@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="ja">
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+		<title>株式会社七福インターナショナル神戸 × Global Ride</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<meta name="description" content="" />
+		<meta property="og:title" content="株式会社七福インターナショナル神戸 × Global Ride" />
+		<meta property="og:type" content="article" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="https://www.globalride.io/shichifuku_globalride/" />
+		<meta property="og:image" content="https://www.globalride.io/shichifuku_globalride/img/og_img.png" />
+		<meta property="og:site_name" content="Global Ride"/>
+		<meta property="og:locale" content="ja_JP" />
+		<link rel="canonical" href="https://www.globalride.io/shichifuku_globalride/" />
+		<link rel="alternate" href="https://www.globalride.io/shichifuku_globalride/" hreflang="ja" />
+		<link rel="alternate" href="https://www.globalride.io/en/shichifuku_globalride/" hreflang="en" />
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+		<link rel="stylesheet" href="../css/reset.css">
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/jquery-3.3.1.min.js"></script>
+		<script src="../js/common.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfcEtsAO7vWnjDBKi-XIq2xVI1QVkZhcU" async defer></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163168959-1"></script>
+	</head>
+	<body id="lower_shichifuku">
+		<div class="wrapper">
+			<button class="sp_view menu_open"><span></span><span></span><span></span></button>
+			<div class="header_wrap active">
+				<div class="header_inner">
+					<header class="clearfix">
+						<h1 class="logo"><a href="/"><img src="../img/logo.svg" alt="globalride"></a></h1>
+
+						<nav id="nav" class="nav">
+							<ul class="clearfix">
+								<li><a href="#service">Services</a></li>
+								<li><a href="#location">Location</a></li>
+								<li><a href="#company">About Us</a></li>
+								<li><a href="mailto:infooosaka@globalride.io?subject=お問い合わせ">Contact</a></li>
+								<li><!-- <a href="../en/shichifuku_globalride/">EN</a> --></li>
+							</ul>
+						</nav>
+
+					</header>
+				</div>
+			</div>
+			<div class="lower_firstview">
+				<div class="pc_view"><img src="img/img_firstview.png"></div>
+				<div class="sp_view"><img src="img/img_sp_firstview.png"></div>
+			</div>
+			<section id="service" class="lower_service bgimg">
+				<div class="whiteframe">
+					<div  class="inner_box">
+						<h2 class="ttl color_blue">Service<span class="ttl_smal"> / サービス</span></h2>
+						<img src="img/dummy1.png">
+						<p class="lower_textarea">
+
+							① POLO大阪登録・申請業務支援サービス<br>
+							初めてフィリピン人技能実習生を招へいする監理団体様向け<br>
+							POLO 大阪登録申請支援、面談支援（通訳）サービス<br> 
+
+							フィリピンより技能実習生を受入れる監理団体様は<br>
+							POLOに登録申請及びPOLO内において<br>
+							監理団体代表様の面談がございます。こちらの登録申請に関わる書類作成代行と<br>
+							面談当日のサポートを行います。フィリピン国内の送出機関の斡旋や契約書の<br>
+							作成代行も料金に含まれます。<br>
+
+ 	
+							サービス利用料金 / ￥200, 000円*〜（消費税別）<br>
+
+							*別途公証役場の認証などの諸費用がかかります<br>。
+
+							*上記の価格には、受入企業1社分の登録費用が含まれます。<br>
+
+							* 受入企業の書類作成の追加は1社あたり¥50,000円（消費税別）かかります。<br><br>
+							
+							②高度人材雇用・特定技能労働者受入れ企業様向け<br>					
+ 						
+							POLO大阪登録申請支援、面談支援（通訳）サービス<br>
+  
+							フィリピン人を雇用する企業や自営業者様は、フィリピン国内の送出機関と契約を締結した上で、<br>
+							雇用契約の内容や労働環境についてPOLO OSAKAに登録審査を申請しなければなりません。<br>
+							また、会社の代表様はPOLO大阪内において、面談がございます。<br>
+							POLOへの登録申請に関わる書類作成代行と社長様面談当日の通訳サポートを行います。<br>
+							フィリピン国内の優良な送出機関の斡旋及び契約書作成もお任せください。<br> 
+  
+							サービス利用料金 / ￥250, 000円<br>
+							*別途公証役場の認証費用がかかります <br>
+							*同じ会社で2名以降は一人当たり￥80,000円（消費税別）となります　 <br>
+							*例）3名SSW受入れ→25万円＋8万x2名＝41万円（消費税別）<br>
+						</p>
+					</div>
+				</div>
+			</section>
+			<section id="location" class="lower_location bgimg">
+				<div class="inner_box">
+					<h2 class="ttl color_white">Location<span class="ttl_smal"> / 場所</span></h2>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.7305151323453!2d135.49709671533617!3d34.68675028043795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6e39fd6a91d%3A0xd24b9d9fbd90b3bf!2z44CSNTQxLTAwNDcg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65reh6Lev55S677yU5LiB55uu77yT4oiS77yV!5e0!3m2!1sja!2sjp!4v1587549765496!5m2!1sja!2sjp" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<p  class="lower_textarea color_white">
+						所在地	
+								<B>大阪 OFFICE<br>
+								大阪府大阪市中央区淡路町4-3-5Urban Center御堂筋１F<br>
+								TEL:06-6484-6390
+					</p>
+				</div>
+			</section>
+			<section id="company" class="lower_about_as">
+				<div class="inner_box">
+					<h2 class="ttl color_blue">About us<span class="ttl_smal"> / 概要</span></h2>
+						<img src="img/dummy2.png">
+						<p  class="lower_textarea">
+							
+					<h2 class="ttl">About us<span class="ttl_smal"> / 会社概要</span></h2>
+					<div class="section_04_inner clearfix">
+						<div class="table_wrap">
+							<div class="table_block">
+								<div class="table_item_left">商号</div>
+								<div class="table_item_right">株式会社 Global Ride</div>
+							</div>
+							<div class="table_block">
+								<div class="table_item_left">設立</div>
+								<div class="table_item_right">2019年11月22日</div>
+							</div>
+							<div class="table_block">
+								<div class="table_item_left">主要メンバー</div>
+								<div class="table_item_right"><span class="keymember">倉賀野　穣<br>Arvin Yamauchi<br>Dwight Pole</span></div>
+							</div>
+						</div>
+						<div class="table_wrap">
+							<div class="table_block">
+								<div class="table_item_left">資本金</div>
+								<div class="table_item_right">500 万円</div>
+							</div>
+							<div class="table_block">
+								<div class="table_item_left">所在地</div>
+								<div class="table_item_right address"><span class="medium">東京オフィス</span><br>
+									東京都千代田区丸の内2-3-2<br>
+									TEL:03-5533-8773<br>
+									<span class="medium osaka">大阪オフィス</span><br>
+									大阪府大阪市中央区淡路町4-3-5　Urban Center御堂筋１F<br>
+					
+							
+						</p>
+				</div>
+			</section>
+			<footer class="footer footer-bgimg">
+				<p>お問い合わせはこちらからご連絡ください。</p>
+				<a href="mailto:infooosaka@globalride.io?subject=お問い合わせ" class="btn_contact footerbtn">お問い合わせ</a>
+
+			</footer>
+			<div class="copyright">
+				<div class="snsicon">
+					<!-- <div><a href="" alt="Facebook" target="_blank"><img src="../img/icon_fb.png" alt="Facebook icon"></a></div>
+					<div><a href="" alt="Twitter" target="_blank"><img src="../img/icon_twitter.png" alt="Twitter icon"></a></div>
+					<div><a href="" alt="Instagram" target="_blank"><img src="../img/icon_instagram.png" alt="Instagram icon"></a></div> -->
+				</div>
+				<p>© 2020 Global Ride Inc.</p>
+			</div>
+		</div>
+
+
+	</body>
+</html>
